@@ -1,0 +1,7 @@
+Java Programming,John Smith,898989,Coding,2022
+English for Beginner,Anthews,0000001,Language,2019
+Database with MySQL,Wizter,1212345,Database,2021
+Algorithm for Java Programming,Canagie,78787878,Algorithm,2023
+French for Beginner,Fransher,90909090,Language,2018
+English for Beginner,Anthews,0000001,Language,2019
+Soft Skill,Hall Elod,12121212,Seft Development,2018
